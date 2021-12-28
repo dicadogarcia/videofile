@@ -1,0 +1,30 @@
+Receita Bruta = SUMX(fVendas;fVendas[PrecoUnit]*fVendas[Quantidade] )
+=======================
+Ano atrás = IFERROR([Receita Bruta] / CALCULATE([Receita Bruta];SAMEPERIODLASTYEAR(dCalendario[DataBase]))-1;BLANK())
+=======================
+Date Default = DATE(2011;12;31)
+=======================
+Ano Anterior = 
+  VAR 
+    DataAtual = [Date Default2]
+  RETURN
+    CALCULATE( 
+     [Receita Bruta]; 
+     dCalendario[AnoNum] = YEAR(DataAtual)-1
+    )
+=======================
+Ano Atual = 
+  VAR 
+   DataAtual = [Date Default2]
+  RETURN
+   CALCULATE(
+		 [Receita Bruta];
+		 dCalendario[AnoNum] = YEAR(DataAtual)
+		 )
+=======================
+Ano/Ano = DIVIDE([Ano Atual];[Ano Anterior];0)-1 
+=======================
+Date Default1 = DATE(ALLSELECTED(dCalendario[AnoNum]);12;MAX(dCalendario[DataBase].[Dia]))
+=======================
+Date Default2 = IF(HASONEFILTER(dCalendario[AnoNum]);DATE(ALLSELECTED(dCalendario[AnoNum]);12;MAX(dCalendario[DataBase].[Dia]));DATE(MAX(dCalendario[AnoNum]);12;31))
+
