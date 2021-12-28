@@ -1,0 +1,22 @@
+Vídeo: Distribuindo meta Anual em meta Mensal / Criando Previsão (forecast)
+https://youtu.be/ZqiOuS1wTvA
+
+Descrição:
+Aprenda a decompor uma meta ANUAL em uma meta MENSAL e, de bônus, ainda veremos como utilizar a Previsão (Forecast) para trazer mais informação ao seu dashboard de maneira prática e inteligente.
+
+Funções DAX utilizadas:
+WEEKDAY
+SUM
+NOT
+ISFILTERED
+SUMX
+VALUES
+CALCULATE
+COUNTROWS
+ALLEXCEPT
+ALL
+FILTER
+DIVIDE
+BLANK
+
+
