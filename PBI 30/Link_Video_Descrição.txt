@@ -1,0 +1,19 @@
+Vídeo: Summarize & KPI com imagens customizadas
+https://youtu.be/6X-g26WPE2E
+
+Descrição:
+Você sabia que pode utilizar a função SUMMARIZE para criar tabelas de agregação que poderão ser utilizadas como argumentos "tabela" de funções DAX, ou ainda como uma tabela auxiliar em seu modelo de dados para realizar algum tipo de consolidação e até mesmo ser a base de um KPI customizado?
+
+Como alternativa à solução, passaremos pelo Editor de Consultas (Power Query) para também criar a mesma tabela auxiliar.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+IF
+SUM
+SUMX
+COUNTROWS
+SUMMARIZE
+
+Fontes das imagens:
+Seta para cima: https://tribunagremista.files.wordpress.com/2010/02/seta-verde-cima.png
+Seta para baixo: https://png.pngtree.com/png-vector/20190411/ourmid/pngtree-vector-down-arrow-icon-png-image_925027.jpg
+Cubo Amarelo: https://www.iconexperience.com/_img/v_collection_png/512x512/shadow/cube_yellow.png
