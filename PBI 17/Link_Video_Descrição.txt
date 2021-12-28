@@ -1,0 +1,15 @@
+Vídeo: Power BI (desktop) - Gestão de Estoque (E/S - Formatação Condicional - KPI)
+https://youtu.be/nQgwg9CBghA
+
+Descrição:
+Inspirado nas dúvidas que vocês postam nos comentários de nossos vídeos, aprenda a mostrar como criar um controle de gestão de Estoque (entradas e saídas), gerando marcadores KPI's através de formatação condicional dentro do Power BI!
+
+Funções DAX utilizadas:
+EARLIER
+SUMX
+FILTER
+SUM
+ALL
+MAX
+
+IMPORTANTE: estou tentando encontrar o arquivo desta video aula, caso você o tenha, por gentileza me envie para que eu possa disponibilizar novamente: garcia@planilheiros.com.br
