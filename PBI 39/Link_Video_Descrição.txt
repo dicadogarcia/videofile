@@ -1,0 +1,18 @@
+Vídeo: SandDance Visual - Mapa e gráficos ainda mais dinâmicos
+https://youtu.be/K4OKCpWceL8
+
+Descrição:
+Você já sabe, mas não custa lembrar que o Power BI possui uma série de Visualizações (tipos de gráficos) default na ferramenta e, adicionalmente, acessando o site https://app.powerbi.com/visuals/ ainda será possível fazer o download de novos e incríveis tipos de visualizações para tornar seu Report ainda mais atrativo e dinâmico.
+
+Hoje irei abordar a visualização SandDance. Trata-se de uma aplicação WEB que proporciona maneiras mais intuitivas de lidar com os dados identificando insights e definindo novos pontos de tomada de decisão.
+
+Felizmente, todo o dinamismo do SandDance foi incorporado à uma visualização específica para o Power BI e usarei este incrível recurso, com os dados do PIB no Brasil (2010 a 2014 - Fonte IBGE), de duas maneiras diferentes:
+
+Gráfico de Colunas;
+Gráfico de Mapa com Latitude e Longitude.
+
+Sobre o assunto: 
+SandDanceVisual: https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals&page=1&src=office&search=sanddance
+SandDance WEB: https://www.microsoft.com/en-us/research/project/sanddance/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fsanddance%2F
+
+Fonte dados do PIB (IBGE): https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html?=&t=downloads
