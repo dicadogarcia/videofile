@@ -1,0 +1,27 @@
+Vídeo: Definir caminho de arquivo via Função Personalizada (Power Query)
+https://youtu.be/B4dqTZFa2YM
+
+Descrição:
+Já pensou em definir um único local com o caminho padrão das fontes de dados dos seus relatórios e painéis?
+
+Quando você centraliza este caminho em um único local, estará otimizando seu tempo sempre que o caminho mudar, precisará alterar somente uma vez para que todos seus relatórios estejam atualizados.
+
+Nesta aula iremos definir o caminho de uma PASTA padrão como uma variável via Editor de Consultas (Power Query) utilizando o conceito de Função Personalizada.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+SUM
+COUNTROWS
+
+Funções M Language utilizadas:
+Excel.Workbook
+FileContents
+Table.PromoteHeaders
+Table.TransformColumnTypes
+Table.Combine
+
+
+Sobre o assunto: 
+Power Query M Function Reference - https://goo.gl/XT67H5
+Links para aulas citadas ao final do vídeo:
+MVP Excel, Benito Savastano - https://youtu.be/R9nVO8nW_Co
+Laennder Alves (Guru do Excel) - https://youtu.be/CdREphTTjPs
