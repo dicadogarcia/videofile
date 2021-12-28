@@ -1,0 +1,16 @@
+Vídeo: Row Context X Filter Context - Acumulado Geral
+https://youtu.be/GtRcbqKW71A
+
+Descrição:
+Você que trabalha com DAX para realizar cáluclos no Power BI e no Powerpivot, deve saber a diferença entre Medida (Measure) e Coluna Calculada (Calculate Column), certo?
+Mas você sabe a diferença entre Row Context e Filter Context?
+Nesta aula, além de abordar os dois assuntos, traremos duas maneiras de realizar contas acumuladas (ROW X FILTER) que ultrapassam de um ano para o outro, ou seja, acumulam durante todo o período selecionado.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+CALCULATE
+EARLIER
+FILTER
+SUM
+SUMX
+MAX
+ALL
