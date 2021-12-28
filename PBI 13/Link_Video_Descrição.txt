@@ -1,0 +1,21 @@
+Vídeo: Relatório Completo (Visão Semana - Atual, Passada e Próxima)
+https://youtu.be/Xu_upmTwRTU
+
+Descrição:
+A aula de hoje irá te ensinar a montar um relatório completo no Power BI, passando por todas as camadas de um projeto de Self-Service BI:
+ETL - usando o Power Query para importar e transformar os dados;
+Data Warehousing e Data Mining - usando as poderosas funções DAX para criar Medidas (powerpivot);
+Analytics e Report - usando as visualizações (power view) para transformar suas medidas em informação através dos diversos elementos visuais;
+Além disso tudo, você aprenderá a criar VISÕES SEMANAIS de maneira automática (semana atual, semana anterior e próxima semana) com funções da linguagem M (power query) para que seu painel sempre te mostre a informação de venda atualizada conforme o dia de hoje.
+
+Funções DAX utilizadas:
+COUNTA
+SUM
+CALCULATE
+ALL
+DIVIDE
+
+Funções M Language utilizadas:
+Date.IsInPreviousWeek
+Date.IsInCurrentWeek
+Date.IsInNextWeek
