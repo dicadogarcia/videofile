@@ -1,0 +1,17 @@
+Vídeo: Calculando dias úteis entre duas datas
+https://youtu.be/OD1uQJ45MA8
+
+Descrição:
+Você que estava acostumado a utilizar a função DIATRABALHOTOTAL() no Excel para calcular o número de dias úteis entre duas datas, pode se perguntar se existe esta mesma função no DAX.
+
+A resposta é simples: NÃO EXISTE!
+
+Aprenda então a realizar este mesmo cálculo utilizando o DAX para obter nº de dias úteis entre duas datas!
+
+Funções DAX utilizadas:
+SUM
+CALCULATE
+DATEDIFF
+DATESBETWEEN
+WEEKDAY
+SWITCH
