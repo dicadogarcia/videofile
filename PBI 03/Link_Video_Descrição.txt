@@ -1,0 +1,12 @@
+Vídeo: Criando Report de vendas e traçando Perfis (vendas, consumo...)
+https://youtu.be/BEz38TAROuQ
+
+Descrição:
+A partir de uma base de dados com 4 tabelas, faremos o relacionamento do Modelo de Dados, criaremos 2 medidas para análise e duas colunas auxiliares para servirem de dimensão tempo.
+Montagem do Report com a criação de vários Visuais interativos, trazendo as visualizações de Radar e Box-Plot (caixa) para aumentar ainda mais o poder da análise e ainda permitindo traçar perfis (consumo, vendas...)
+
+Funções DAX utilizadas:
+COUNTROWS
+SUM
+FORMAT
+MONTH
