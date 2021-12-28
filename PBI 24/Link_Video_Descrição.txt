@@ -1,0 +1,29 @@
+Vídeo: Automação de Datas / Localizando venda + recente / Tx condicional
+https://youtu.be/AlfRS364TfM
+
+Descrição:
+Nesta aula iremos solucionar dúvidas, enviadas por email, de 3 usuários envolvendo Automação de Datas / Localização da Venda Mais recente / Aplicação de Taxas condicionais.
+
+Dúvida enviada por: 
+Marcelo Nascimento Santos - Mais sobre Power Query e funções de data.
+
+Funções Linguagem M utilizadas:
+DateTime.LocalNow
+Date.AddMonths
+Date.EndOfMonth
+
+
+Dúvida enviada por: 
+Tober Rafael Martello - Localizar a data mais recente de uma venda por cliente e retornar o seu respectivo valor.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+CALCULATE
+FILTER
+MAX
+
+
+Dúvida enviada por: 
+Victor Figueira Minelli - Como aplicar TAXAS à vendas de acordo com critérios pré-definidos.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+IF
