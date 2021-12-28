@@ -1,0 +1,5 @@
+Vídeo: Power BI (desktop) - Relatório de Arrecadação Concessão da rodovia ES-060 no ES
+https://youtu.be/lkC4lGNYxf4
+
+Descrição:
+Nesta LIVE de mar/2016, utilizando dados reais do site Transparência do Governo do Estado do ES, criamos dois Reports para analisar a arrecadação da concessão da rodovia ES-060 desde 2009 até Set/2021.
