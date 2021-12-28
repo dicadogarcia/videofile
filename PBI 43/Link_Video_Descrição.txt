@@ -1,0 +1,11 @@
+Vídeo: NOVA Visualização da Matriz - Cálculos SEM Medidas
+https://youtu.be/EhQN5DodWGs
+
+Descrição:
+Seus dados exibidos em formato da NOVA Visualização da Matriz agora funcionam como segmentações de dados, aumentando o poder de análise em seus relatórios e dashboards. Saiba como customizar inclusive quebras de linha, colunas e valores para melhor organizar seus dados.
+
+Veja também uma maneira de criar cálculos automaticamente sem a necessidade de criação de medidas.
+
+Sobre o assunto: 
+Atualização Power BI Abril/2017 - https://powerbi.microsoft.com/pt-br/blog/2017/04/
+Atualização Power BI Março/2017 - https://powerbi.microsoft.com/pt-br/blog/2017/03/
