@@ -1,0 +1,12 @@
+Vídeo: KPI, Exportando dados (*.csv) e Word Cloud
+https://youtu.be/trki88-5nKc
+
+Descrição:
+Que tal utilizar a mais nova visualização do Power BI, KPI? Agora além dos KPI você também poderá exportar os dados do seu painel para *.csv.
+Por fim, utilizando Word Cloud (nuvem de palavras) mostraremos como configurar esta poderosa visualização.
+
+Funções DAX utilizadas:
+RELATED
+SUM
+
+
