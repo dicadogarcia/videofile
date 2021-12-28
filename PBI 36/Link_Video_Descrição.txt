@@ -1,0 +1,22 @@
+Vídeo:  Gráfico de Pareto - (Curva ABC | 20/80)
+https://youtu.be/n2vMmvGLQzs
+
+Descrição:
+O diagrama de Pareto é um gráfico de colunas que ordena as frequências das ocorrências, da maior para a menor, permitindo a priorização dos problemas, procurando levar a cabo o princípio de Pareto (80% das consequências advêm de 20% das causas), isto é, há muitos problemas sem importância diante de outros mais graves.
+Nesta aula você irá aprender a criar este tipo de solução no Power BI e ainda aprenderá a criar e editar GRUPOS em gráficos.
+
+Funções DAX utilizadas:
+RANKX
+CALCULATE
+SUM
+ALL
+FILTER
+MAX
+ALLSELECTED
+
+Funções M Language utilizadas:
+Table.AddColumn
+Text.Combine
+Table.Group
+Table.SplitColumn
+Table.DuplicateColumn
