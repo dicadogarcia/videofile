@@ -1,0 +1,16 @@
+Vídeo: Manipulando HORAS / Painel de Banco de Horas (Ponto) - #GarciaResponde
+https://youtu.be/AiksjmFNoAs
+
+Descrição:
+Você é daqueles que vive tendo problemas quando vai realizar cálculos com horas em seus relatórios?
+Ainda sente dificuldade quando a diferença entre as horas ultrapassa as 24h do dia e o resultado não mostra o excedente?
+Aprenda 3 maneiras diferentes de trabalhar com HORAS no Power BI e de quebra monte um dashboard de controle de banco de horas para sua empresa.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+DATEDIFF
+WEEKDAY
+AVERAGE
+FORMAT
+SUM
+IF
+&
