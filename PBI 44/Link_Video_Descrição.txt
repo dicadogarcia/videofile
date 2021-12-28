@@ -1,0 +1,23 @@
+Vídeo: Medidas Rápidas (Quick Measures) e Clustering
+https://youtu.be/SJXF4WH9ucY
+
+Descrição:
+Já pensou em criar uma Medida sem saber DAX? Ou ainda, mesmo sabendo, que tal chegar ao resultado de uma conta apenas selecionando opções com o Mouse?
+Saiba como implementar Medidas com a nova funcionalidade (abril/2017) de Quick Measures (Medidas Rápidas) que proporcionam 5 grupos de cálculos e 19 opções predefinidas de contas.
+
+Veja também a funcionalidade de Mar/2017 que agrega CLUSTERIZAÇÃO ao gráfico de dispersão para melhorar sua análise e tornar seus relatórios ainda mais dinâmicos e assertivos.
+
+Funções DAX utilizadas:
+VAR
+CALCULATE
+TREATAS
+SUM
+FILTER
+ALLSELECTED
+ISONORAFTER
+MAX
+
+
+Sobre o assunto: 
+DOCS POWER BI - Quick Measures - https://docs.microsoft.com/pt-br/power-bi/transform-model/desktop-quick-measures
+Blog Power BI (March Update 17) Clustering - https://powerbi.microsoft.com/pt-br/blog/2017/03/
