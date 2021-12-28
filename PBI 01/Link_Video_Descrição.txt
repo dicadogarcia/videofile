@@ -1,7 +1,0 @@
-Vídeo: Painel de Treinamentos Vencidos - Diferença entre Power BI e Self-Service BI no Excel
-https://youtu.be/3LnpUeAjW14
-
-Descrição:
-Encontrando as datas mais recentes de treinamento de cada funcionário da empresa automaticamente, calculando se estão vencidos e gerando relatório No Power View (Excel 2016) e no Power BI (desktop) para mostrar as vantagens e desvantagens de cada um!
-
-
