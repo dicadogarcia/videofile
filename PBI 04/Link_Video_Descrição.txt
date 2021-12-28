@@ -1,0 +1,10 @@
+Vídeo: Corrigindo localização nos Mapas / Função RELATED (PROCV do Power BI)
+https://youtu.be/JX9VWQwq_M0
+
+Descrição:
+Você vive tendo problemas quando plota seus dados no mapa? Um estado ou cidade brasileira acaba aparecendo em outro país?
+Aprenda a resolver esses problemas nesta vídeo aula que ainda te mostrará a função PROCV do Power BI, para realizar buscas eficientes e muito rápidas entre tabelas.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+RELATED
+SUM
