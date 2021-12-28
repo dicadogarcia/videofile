@@ -1,0 +1,15 @@
+Vídeo: Relatório: Plano de Manutenção de Equipamentos
+https://youtu.be/Hxeh2_6o5xA
+
+Descrição:
+Por vezes temos em nossas empresas diversos equipamentos que demandam manutenção com uma determinada regularidade (mensal, semanal, anual, semestral...) de acordo com as recomendações do fabricante. 
+A partir da última intervenção realizada em cada equipamento da sua planta, aprenda a criar automaticamente o seu Relatório de Controle completo para acompanhar a manutenção de seus equipamentos.
+
+Funções M Language utilizadas e definições no Microsoft MSDN:
+Date.AddDays
+Date.AddMonths
+Date.AddYears
+DateTime.LocalNow
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+SUM
