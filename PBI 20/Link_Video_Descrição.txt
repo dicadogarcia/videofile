@@ -1,0 +1,13 @@
+Vídeo: Parâmetro & Títulos Inteligentes
+https://youtu.be/7X3ySyN9mn8
+
+Descrição:
+Aprenda nesta aula a trabalhar com PARÂMETROS para realizar filtros em todo os painéis do seu relatório de maneira única.
+De quebra, saiba como criar TÍTULOS INTELIGENTES que acompanham a escolha da parametrização selecionada.
+
+Funções DAX utilizadas:
+&
+FIRSTNONBLANK
+TRUE
+
+
