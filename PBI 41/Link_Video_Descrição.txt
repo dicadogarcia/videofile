@@ -1,0 +1,17 @@
+Vídeo: Acumulado com EARLIER (Rox Context X Filter Context)
+https://youtu.be/lLOjRo1_v7o
+
+Descrição:
+Perceba a diferença entre encontrar o resultado acumulado de determinado valor, utilizando COLUNAS CALCULADAS e MEDIDAS.
+
+As Colunas Calculadas (ROW CONTEXT) realizam as contas horizontalmente através de uma Tabela montada "In memory" para consolidação do contexto de linha através de uma função de agregação.
+
+As Medidas (FILTER CONTEXT) realizam as contas verticalemente com uma tabela real que será filtrada por uma expressão Row Context, e para isso será necessário criar interações entre expressões ROW CONTEXT aninhadas.
+
+Funções DAX utilizadas:
+CALCULATE
+SUM
+ALL
+FILTER
+SUMX
+EARLIER
