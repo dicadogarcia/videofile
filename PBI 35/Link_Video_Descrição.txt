@@ -1,0 +1,25 @@
+Vídeo: % Crescimento Anual e Mensal (YoY / MoM)
+https://youtu.be/LcbxzJfE6Rg
+
+Descrição:
+Está com problemas para ordenar corretamente seus dados, respeitando uma determinada hierarquia?
+Você sabia que existe um grupo de 5 funções que trabalham a hierarquia para você de maneira otimizada?
+Quer aprender a hierarquizar a partir de várias tabelas?
+
+Precisando encontrar a Taxa anual de crescimento da sua empresa, ou de um produto? Ou ainda, quer saber como foi o mesmo comportamento, porém, com periodicidade mensal em relação ao ano anterior?
+Veja agora 2 maneiras de encontrar estas respostas.
+
+Funções DAX utilizadas:
+SUM
+IFERROR
+CALCULATE
+SAMEPERIODLASTYEAR
+BLANK
+DATE
+VAR
+YEAR
+DIVIDE
+ALLSELECTED
+IF
+HASONEFILTER
+MAX
