@@ -1,0 +1,15 @@
+Vídeo: Filtro de Relatório / Medidas que guiam o usuário pelo painel
+https://youtu.be/Issd4H4Eul0
+
+Descrição:
+Por diversas vezes sou questionado que em alguns softwares de SSBI existe um filtro que realiza uma ação em todos os relatórios (painéis) ao mesmo tempo! No Power BI isso também é possível com o uso dos Filtros de Nível de Relatório!
+
+Outro questionamento comum é o fato de por diversas vezes possuirmos tantos elementos gráficos em nossos Reports, que seria útil desabilitarmos alguns destes elementos, deixando-os disponíveis ao usuário apenas após algumas seleções, para desta forma, guiar a navegação do mesmo.
+
+Nesta aula de 15 minutos, você irá aprender a resolver os dois pontos elencados.
+
+Funções DAX utilizadas:
+IF
+NOT
+SUM
+HASONEFILTER
