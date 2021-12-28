@@ -1,0 +1,20 @@
+Vídeo: Data Gateway Pessoal - Instalando e agendando atualização do Painel
+https://youtu.be/ShPhSSw2uoY
+
+Descrição:
+Nesta aula você irá aprender os seguintes assuntos:
+- Criar um painel no Power Bi (desktop)
+- Publicar o Painel no Power BI Online
+- Instalar o Data Gateway
+- Configurar o Data Gateway
+- Agendar atualização automática do Painel
+
+Funções DAX utilizadas:
+SUMX
+SUM
+
+Sobre o assunto: 
+Documentação Power BI - https://docs.microsoft.com/pt-br/power-bi/connect-data/service-gateway-personal-mode
+Download Gateway Power BI - https://powerbi.microsoft.com/pt-br/gateway/
+
+
