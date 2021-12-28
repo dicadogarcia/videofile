@@ -1,0 +1,18 @@
+Vídeo: DAX - PATH e variações (Criando e trabalhando com Hierarquias)
+https://youtu.be/QFKTr8tAQXE
+
+Descrição:
+Está com problemas para ordenar corretamente seus dados, respeitando uma determinada hierarquia?
+Você sabia que existe um grupo de 5 funções que trabalham a hierarquia para você de maneira otimizada?
+Quer aprender a hierarquizar a partir de várias tabelas?
+
+Funções DAX utilizadas:
+PATH
+PATHCONTAINS
+PATHITEM
+PATHITEMREVERSE
+PATHLENGTH
+
+Referência técnica:
+Neste arquivo de 2011, é abordada o uso do DAX PATH para criação de hierarquias! Excelente conteúdo!
+Kasper ON BI - https://www.kasperonbi.com/powerpivot-denali-parent-child-using-dax
