@@ -1,0 +1,17 @@
+Power BI (desktop) Criando Rank e Dashboards para visualização
+https://youtu.be/umD_mvpONU0
+
+Descrição:
+prenda 3 maneiras diferentes de criar medidas e usufruir de informação ranqueada de acordo com seus critérios, plotando os dados em Dashboards no seu painel.
+
+Funções DAX utilizadas:
+SUM
+RANKX
+ALL
+IF
+HASONEVALUE
+VALUES
+BLANK
+
+Sobre o assunto: 
+SQLBI | Artigo Marco Russo - https://www.sqlbi.com/articles/use-of-rankx-in-power-bi-measures/
