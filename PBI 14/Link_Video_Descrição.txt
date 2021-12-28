@@ -1,0 +1,13 @@
+Vídeo: Power BI (desktop) - Relatório completo - DAX: All X AllSelected [Medidas ainda mais dinâmicas]
+https://youtu.be/t3HCJyC14iw
+
+Descrição:
+A aula de hoje irá te ensinar a montar um relatório para visualizarmos duas diferentes maneiras de criar cálculos percentuais:
+Utilizando a função DAX ALL - encontrando o percentual mensal em relação a todos os meses (não respeitando a seleção da segmentação de dados);
+Utilizando a função DAX ALLSELECTED - encontrando o percentual mensal em relação a todos os meses (selecionados na segmentação de dados);
+
+Funções DAX utilizadas:
+ALL
+ALLSELECTED
+SUM
+CALCULATE
