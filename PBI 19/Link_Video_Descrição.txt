@@ -1,0 +1,21 @@
+Vídeo: Otimizando suas medidas com declaração de variáveis
+https://youtu.be/7ZRbvMn9JIk
+
+Descrição:
+Você sabia que com a utilização de variáveis, pode tornar o que já é ótimo em algo ainda melhor? Ao usar uma variável, você pode obter o mesmo resultado de VÁRIAS MEDIDAS construídas separadamente, mas de uma forma mais legível, além do resultado da expressão ser armazenado na variável mediante declaração.
+Logo, tal resultado armazenado não tem de ser recalculado a cada vez que é usado, como seria sem o uso de uma variável, melhorando o desempenho da medida. Veja nesta vídeo aula como utilizar variáveis no DAX
+
+Funções DAX utilizadas:
+VAR
+COUNTROWS
+CALCULATE
+ALL
+DIVIDE
+SAMEPERIODLASTYEAR
+IF
+
+
+Sobre o assunto: 
+SQLBI - https://www.sqlbi.com/articles/variables-in-dax/
+
+
