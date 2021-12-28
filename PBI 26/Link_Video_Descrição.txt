@@ -1,0 +1,11 @@
+Vídeo: Duração do Projeto (dias) / Medida com Relação Virtual
+https://youtu.be/bkBoTu53m34
+
+Descrição:
+Você sabia que pode criar medidas utilizando campos de tabelas diferentes do seu modelo de dados, mesmo que estas não estejam conectadas?
+Utilizaremos o relacionamento virtual (não físico) para criar uma medida que irá calcular a duração de um projeto em dias e ao mesmo tempo dispôr estes dias dentro dos meses consumidos pelo projeto..
+
+Funções DAX utilizadas:
+VALUES
+FILTER
+COUNTROWS
