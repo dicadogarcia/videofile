@@ -1,0 +1,6 @@
+Vídeo: Gerenciar Parâmetros (Query) e Exportar como Modelo
+https://youtu.be/jN2zMQQZwWA
+
+Descrição:
+Você sabia que pode utilizar Parâmetros dentro do editor de consultas para servir como filtro de uma tabela, e com isso restringir o acesso aos dados?
+Somado a isso, você pode utilizar a Exportação de Modelo do Power BI para gerar um arquivo local extra, que obedecerá o filtro gerado pelo parâmetro!
