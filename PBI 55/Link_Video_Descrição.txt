@@ -1,0 +1,25 @@
+Vídeo: Medindo o desempenho da sua empresa com o KPI CAGR
+https://youtu.be/kPx2VGsQrjQ
+
+Descrição:
+Você sabe o que é CAGR? Trata-se de um KPI que representa a taxa de crescimento composta de um determinado período, sendo muito utilizado para representar o desempenho de empresas ou startups.
+
+Com um único dado temos uma informação relevante para todo o período. Vale lembrar que não se trata da taxa de retorno real, mas um número fictício que descreve a taxa, à qual um investimento teria crescido, se a mesma fosse constante.
+
+Aprenda a calcular o CAGR utilizando VARIÁVEIS no DAX e garanta otimização e desempenho em seus relatórios, além da exibição deste importante indicador.
+
+
+Funções DAX utilizadas:
+CALCULATE
+SUM
+FILTER
+MIN
+MAX
+IFERROR
+
+Sobre o assunto e referências técnicas: 
+Wikipedia - https://en.wikipedia.org/wiki/Compound_annual_growth_rate
+Blog Marcelo Toledo - http://marcelotoledo.com/cagr-como-calcular-este-kpi-fundamental/
+Este conteúdo do Mike Carlo, (PBI Tips & Tricks) trouxe a solução ideal para o problema. Acrescentei ao modelo proposto uma tabela calendário e a utilização de VARIAVEIS no DAX para tornar a solução mais didática e trazer conteúdo novo!
+https://powerbi.tips/2016/05/measures-calculate-cagr/
+
