@@ -1,0 +1,16 @@
+Vídeo: Trabalhando com Horas (Serial X hh:mm:ss)
+https://youtu.be/hPoMssFZRKo
+
+Descrição:
+Está precisando exibir em seu relatório o resultado de um calculo serial de tempo, mas no formato HH:MM:SS?
+Veja nesta aula como resolver este problema!
+
+Funções DAX utilizadas:
+IF
+SUM
+VALUES
+TIMEVALUE
+
+Referência Técnica
+Artigo muito simples e eficiente sobre cálculos com seriais!
+PowerPivot-info.com - https://www.powerpivot-info.com/post/143-q-how-can-i-calculate-difference-between-two-dates-in-dax-seconds-minutes-hours-days-and-months
