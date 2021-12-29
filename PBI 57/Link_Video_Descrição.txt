@@ -1,0 +1,20 @@
+Vídeo: Média Geométrica e o valor anual do seu Investimento
+https://youtu.be/Bh5wn7sAxO0
+
+Descrição:
+Esta aula aborda duas maneiras de calcular a Média Geométrica para retornar o valor anual atualizado de uma investimento inicial.
+
+Funções DAX utilizadas:
+GEOMEANX
+PRODUCTX
+COUNTROWS
+CALCULATE
+POWER
+FILTER
+ALL
+
+Sobre o assunto: 
+Média Geométrica Wikipedia - https://pt.wikipedia.org/wiki/M%C3%A9dia_geom%C3%A9trica
+Referência técnica:
+MVP Mike Girvin (ExcelisFun), o papa das MATRICIAIS, resolvendo o problema usando Suplementos Power do Excel - https://www.youtube.com/watch?v=0qa6hf3RiJ4
+
