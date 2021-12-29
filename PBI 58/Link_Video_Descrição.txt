@@ -1,0 +1,19 @@
+Vídeo: O Poder das Tabelas Virtuais com SUMMARIZE e ADDCOLUMNS
+https://youtu.be/pm55kDWcwQY
+
+Descrição:
+Você ainda utiliza tabelas auxiliares e as OCULTA como nos tempos do Excel? Aprenda definitivamente a utilizar Tabelas Virtuais para gerar argumentos de sintaxes dinâmicos que não irão tirar performance dos seus respectivos modelos de dados.
+
+Nesta aula utilizaremos o poder das função DAX SUMMARIZE e ADDCOLUMNS para criar as tabelas virtuais e alcançar os resultados pretendidos.
+
+Funções DAX utilizadas e definições no Microsoft MSDN:
+TOPN
+COUNT
+CALCULATE
+SUMMARIZE
+ADDCOLUMNS
+
+Sobre o assunto: 
+DAX Studio - https://daxstudio.codeplex.com/
+Sempre os Mestres Marco Russo e Alberto Ferrari, já em 2012 falavam sobre o tema, veja este artigo COMPLETO:
+https://www.sqlbi.com/articles/best-practices-using-summarize-and-addcolumns/
