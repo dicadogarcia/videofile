@@ -1,0 +1,15 @@
+Vídeo: Calculando Distintos com Tabela Virtual - #GarciaResponde
+https://youtu.be/Ape9tV2Xac0
+
+Descrição:
+Atendendo ao pedido do seguidor do canal Marcos Braga sobre como exibir os DISTINTOS que se repetiam mais de 10 vezes!
+
+Funções DAX utilizadas:
+COUNTA
+DISTINCTCOUNT
+SUMMARIZE
+IF
+BLANK
+
+Sobre o assunto: 
+Aula do canal sobre Tabelas Virtuais - https://www.youtube.com/watch?v=pm55kDWcwQY
