@@ -1,0 +1,15 @@
+Vídeo: Calculando o DELTA diário de Vendas por Vendedor
+https://youtu.be/IL2CsTa8ATk
+
+Descrição:
+Está precisando calcular o DELTA diário de vendas por vendedor? Veja nesta vídeo aula duas maneiras diferentes de realizar este cálculo:
+- Coluna Calculada
+- Medida
+
+Funções DAX utilizadas:
+CALCULATE
+SUM
+ALL
+FILTER
+VALUES
+PREVIOUDAY
