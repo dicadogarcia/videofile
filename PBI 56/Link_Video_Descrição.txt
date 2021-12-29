@@ -1,0 +1,18 @@
+Vídeo: VPL e TIR para análise de viabilidade de projetos
+https://youtu.be/I6Rhnw-8sGA
+
+Descrição:
+Aprenda nesta aula a calcular o VPL (Valor Presente Líquido) e o TIR (Taxa Interna de Retorno) para ajudar na análise de Viabilidade dos seus projetos. Vale lembrar que outros indicadores são importantes para esta análise, como Payback e o ROI.
+
+Funções DAX utilizadas:
+XNPV
+XIRR
+VALUES
+IF
+HASONEFILTER
+
+Sobre o assunto: 
+VPL - https://pt.wikipedia.org/wiki/Valor_presente_l%C3%ADquido
+TIR - https://pt.wikipedia.org/wiki/Taxa_interna_de_retorno
+TMA - https://pt.wikipedia.org/wiki/Taxa_m%C3%ADnima_de_atratividade
+
