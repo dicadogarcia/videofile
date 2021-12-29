@@ -1,0 +1,10 @@
+Produto	ID_Produto	Validade (meses)
+Macarrão	1	30
+Sal	2	180
+Soja	3	12
+Trigo	4	12
+Arroz	5	8
+Açucar	6	20
+Cevada	7	50
+Milho	8	20
+Feijao	9	10

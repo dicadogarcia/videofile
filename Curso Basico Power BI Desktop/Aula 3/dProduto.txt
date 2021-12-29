@@ -1,0 +1,5 @@
+ID Produto	Produto	Tipo 
+1	Power BI- Módulo 1	Presencial
+2	Power BI- Módulo 2	Presencial
+3	Power BI para Gestores	Presencial
+4	Curso Básico de Power BI	Online

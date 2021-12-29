@@ -1,0 +1,5 @@
+Vídeo: Curso Básico de Power BI - Aula 03
+https://youtu.be/gGoyMm8EUWM
+
+Descrição:
+Na aula 3 do curso básico de Power BI você aprenderá a primeira etapa do seu projeto no Power BI: ETL ou tratamento de dados que é realizado no Editor de Consultas (antigo Power Query).
