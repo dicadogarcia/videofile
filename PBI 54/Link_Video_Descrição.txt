@@ -1,0 +1,17 @@
+Vídeo: What IF - Tabela de Parâmetros com Range Automático
+https://youtu.be/EyGlR1cx0GE
+
+Descrição:
+Em Agosto/17 uma nova funcionalidade surgiu no Grupo de Comando "Hipóteses" que é trás a opção de criação de tabela(s) de parâmetro(s) para tornarem seus cálculos mais dinâmicos e interativos.
+Contudo essa funcionalidade gera um RANGE FIXO para estes parâmetros e nesta aula, ensinarei a torná-los automáticos e vinculados à sua fonte de dados, ou seja, sempre que algum dado novo surgir, será atualizado seu RANGE!
+
+Funções DAX utilizadas:
+SUM
+SUMX
+RELATED
+FILTER
+SELECTEDVALUE
+GENERATESERIES
+SWITCH
+
+
