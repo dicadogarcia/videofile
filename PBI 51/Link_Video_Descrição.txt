@@ -1,0 +1,16 @@
+Vídeo: 3 maneiras de encontrar valores repetidos
+https://youtu.be/Af7b5wZBlKQ
+
+Descrição:
+Precisando encontrar os valores repetidos em sua base de dados?
+Veja nesta vídeo aula 3 maneiras diferentes de resolver este problema:
+Medidas
+Editor de Consultas
+Relatórios
+
+Funções DAX utilizadas:
+COUNTA
+
+Funções M Language utilizadas:
+Table.Group
+Table.RowCount
