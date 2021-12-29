@@ -1,0 +1,14 @@
+Vídeo: Criando Tabela Ranqueada e Segmentação de Rank Automática
+https://youtu.be/TvFJI5aoxlA
+
+Descrição:
+Que tal criar um RANK que faça ao mesmo tempo o ranqueamento em relação a todas as opções existentes no seu parâmetro E ao mesmo tempo, ranquear automaticamente de acordo com os itens selecionados?
+Que tal criar uma TABELA que sempre trará o nº total de opções ranqueadas para estes sirvam como parâmetro de seleção numa segmentação de dados?
+Aprenda nesta a aula a criar um RANK dinâmico e a TABELA Ranqueada que servirá como segmentação de dados!
+
+Funções DAX utilizadas:
+SUM
+RANKX
+ADDCOLUMNS
+ALLSELECTED
+DISTINCT
