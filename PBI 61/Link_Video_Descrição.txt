@@ -1,0 +1,18 @@
+Vídeo: Atualização de dados INCREMENTAL
+https://youtu.be/eghNUjII26M
+
+Descrição:
+Você que têm muitas consultas (queries) e sempre que entra um dado novo, ao atualizar o Power BI, sofre com a atualização de toooodas as Queries, mesmo que não tenham recebido qualquer dado novo?
+A Atualização Incremental no Power BI não era uma realidade na data de gravação desse vídeo, pois estava em desenvolvimento pelo time do produto, conforme consta no site de Ideias do Power BI: 
+https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/7288623-incremental-data-loads
+
+Enquanto isso, veja nesta vídeo aula como gerar uma solução que só irá atualizar os dados mais recentes definidos por você, deixando os demais dados (antigos) fixos e carregados uma única vez!
+
+Atualmente a atualização incremental está disponível para licenças Premium por Usuário, Capacidade Premium de Workspaces.
+Veja com utilizar nas aulas do canal:
+https://www.youtube.com/watch?v=OEiVZHbSTb8
+https://www.youtube.com/watch?v=9ZfkKPDh_1s
+
+Referência Técnica
+Este site serviu como referência técnica para o assunto:
+http://www.thebiccountant.com/2017/01/11/incremental-load-in-powerbi-using-dax-union/
