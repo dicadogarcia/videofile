@@ -1,0 +1,20 @@
+Vídeo: Medidas Rápidas X Medidas - Novos Clientes X Clientes Existentes
+https://youtu.be/02CAQwSx_gg
+
+Descrição:
+Aprenda nesta aula a encontrar NOVOS clientes (aqueles que compraram pela primeira vez) e criar uma visão onde estes sejam comparados com os clientes recorrentes (que estão comprando novamente em sua loja).
+Usaremos medidas rápidas e também construiremos a medida manualmente para que as diferenças seja evidenciadas.
+
+Funções DAX utilizadas:
+FILTER
+COUNTROWS
+DISTINCTCOUNT
+CALCULATE
+VALUES
+ADDCOLUMNS
+ALL
+MIN
+
+Sobre o assunto: 
+Sempre os MITOS do BI - Marco Russo e Alberto Ferrari
+SQLBI Blog - https://www.daxpatterns.com/new-and-returning-customers/
