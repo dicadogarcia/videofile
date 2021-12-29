@@ -1,0 +1,6 @@
+Vídeo: Análises automáticas no Power BI (Narratives e 'Analisar' )
+https://youtu.be/i78b2jcTmGM
+
+Descrição:
+Nesta aula mostraremos o Custom Visual da Office Store, Narratives for Business Intelligence que trás análises por extenso em nossos relatórios.
+Será abordado também a nova funcionalidade "Análise" que trás o poder do Machine Learning, gerando vários tipos de gráficos e cenários que podem ser incorporados no relatório!
