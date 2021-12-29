@@ -1,0 +1,7 @@
+Vídeo: Storytelling com Bookmarks (Painel de Indicadores)
+https://youtu.be/vB8vc5Q9Ji0
+
+Descrição:
+Mais importante que criar um relatório bem feito e bonito, é contar a história por trás dos dados apresentados (Storytelling). Com a novidade de Out/17 BOOKMARK (indicadores) é possível criar esse tipo de apresentação que poderá ser utilizado no Power BI Desktop ou também no Serviço do Power BI.
+
+Esta aula utiliza o arquivo da vídeo aula PBI36 (Gráfico de Pareto) já resolvida, caso não tenha assistido, veja aqui: https://youtu.be/n2vMmvGLQzs
