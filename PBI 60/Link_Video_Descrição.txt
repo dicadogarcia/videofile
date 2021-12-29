@@ -1,0 +1,26 @@
+Vídeo: Segmentação de Dados (SQL Like operator)
+https://youtu.be/xeQz8VyFxBM
+
+Descrição:
+Você precisa de uma segmentação que faça um filtro do tipo LIKE usado no SQL?
+Ou seja, um filtro que encontre um determinado valor, esteja ele sozinho em uma linha OU em conjunto com outros dados?
+Aprenda ainda a aproveitar uma coluna de sua tabela para gerar uma tabela auxiliar com dados únicos automaticamente e, sempre que dados novos forem adicionados, a tabela nova estará atualizada.
+
+Funções DAX utilizadas:
+SUMX
+FIND
+MAX
+IF
+
+Funções M Language utilizadas:
+Table.TransformColumnTypes
+Table.FromList
+Table.SplitColumn
+Table.TransformColumnTypes
+Table.UnpivotOtherColumns
+Table.RemoveColumns
+Table.Distinct
+
+Sobre o assunto, referência e créditos: 
+Devin Knight MVP SQL SERVER - https://devinknightsql.com/
+Mitchell Pearson - https://mitchellpearson.com/author/mitchellsql/
