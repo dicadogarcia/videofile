@@ -1,0 +1,15 @@
+Vídeo: Inserindo Feriados na dCalendário como dia não útil
+https://youtu.be/-nRiPwFD2UI
+
+Descrição:
+Está precisando incorporar os feriados de um determinado ano em sua tabela dCalendário para definir o que de fato foi dia útil e o que não foi?
+
+Aprenda agora, em menos de 10 minutos a utilizar o poder do DAX com duas funções (RELATED e IF) a solucionar este problema!
+
+Funções DAX utilizadas:
+RELATED
+IF
+
+
+Sobre o assunto: 
+Na aula anterior, foi abordado o tema de como gerar os dias úteis entre duas datas, veja aqui: https://youtu.be/OD1uQJ45MA8
