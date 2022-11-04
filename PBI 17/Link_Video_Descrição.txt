@@ -11,5 +11,3 @@ FILTER
 SUM
 ALL
 MAX
-
-IMPORTANTE: estou tentando encontrar o arquivo desta video aula, caso você o tenha, por gentileza me envie para que eu possa disponibilizar novamente: garcia@planilheiros.com.br
